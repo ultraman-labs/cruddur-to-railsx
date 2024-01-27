@@ -12,7 +12,7 @@ The .gitpod.yml file, so far, contains:
 $ rails new Cruddur
 ```
 
-## Start the Rails serveer with:
+## Start the Rails server with:
 ```bash
 $ rails server
 ```
