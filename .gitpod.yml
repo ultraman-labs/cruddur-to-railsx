@@ -1,7 +1,10 @@
 tasks:
   - init: |
-      # installing the Ruby on Rails web application framework 
-      gem install rails 
-      
-      # updating the RubyGems software to version 3.5.5
+      # Update RubyGems
       gem update --system 3.5.5
+
+      # Install Rails (this assumes Ruby is already installed)
+      gem install rails 
+
+      # Cache the installation of gems to speed up future workspace startups
+      # Optional: Specify the path to cache
