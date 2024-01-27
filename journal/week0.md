@@ -12,6 +12,22 @@ The .gitpod.yml file, so far, contains:
 $ rails new Cruddur
 ```
 
+## Adding PostgreSQL Gem to Gemfile
+Open Gemfile in the root of your Rails project and add the pg gem (PostgreSQL adapter).
+After adding it, run 'bundle install' to install the gem:
+```ruby
+gem 'pg'
+```
+
+```bash
+bundle install
+```
+## Install PostgreSQL
+```bash
+brew install postgresql
+```
+
+
 ## Start the Rails serveer with:
 ```bash
 $ rails server
