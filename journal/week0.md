@@ -7,7 +7,8 @@ The .gitpod.yml file, so far, contains:
 
  ## Creating the Rails Project
     At the CLI, ran 
-    ```bash '$ rails new Cruddur' ```
+    ```bash '$ rails new Cruddur' 
+    ```
 
 ## Start the Rails serveer with:
 ```bash
