@@ -4,3 +4,8 @@
 1) Learning more in depth developer skills.
 2) Learning specifically the rails culture and tech stack.
 3) How cloud skills will intersect for this role.
+
+
+### Weekly Journals
+- [Week 0 Journal](journal/week0.md)
+- [Week 1 Journal](journal/week1.md)

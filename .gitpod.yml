@@ -1,0 +1,7 @@
+tasks:
+  - init: |
+      # installing the Ruby on Rails web application framework 
+      gem install rails 
+      
+      # updating the RubyGems software to version 3.5.5
+      gem update --system 3.5.5
