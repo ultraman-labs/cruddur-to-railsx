@@ -1,4 +1,4 @@
-# Setting up .gitpod.yml so that the Gitpod environment is ready to run Rails for each new  instantiantion instantiantion.
+# Setting up .gitpod.yml so that the Gitpod environment is ready to run Rails for each new  workspace instantiantion.
 The .gitpod.yml file, so far, contains:
 
     gem install rails
